@@ -5,7 +5,7 @@
 [![Research Council of Finland funding](https://img.shields.io/badge/funding-Research_Council_of_Finland-green)](https://research.fi/en/results/funding/81092)
 
 This repository contains the data and code to replicate the results of the article:
-- Estévez, J. L., & Rotkirch, A. (2024). 'Fertility Trends Across Migrant Generations Reexamined: Insights from Finnish Register Data'. _SocArXiv_. https://doi.org/10.31235/osf.io/aqw6h
+- Estévez, J. L., & Rotkirch, A. (2024). 'Fertility Trends Across Migrant Generations Reexamined: Insights from Finnish Register Data'. _SocArXiv_. https://doi.org/10.31235/osf.io/aqw6h_v3
 
 ## Purpose of the repository
 
@@ -38,7 +38,7 @@ José Luis Estévez was also supported by the Research Council of Finland, grant
 
 ## Citation
 
-- Estévez, J. L., & Rotkirch, A. (2024). 'Fertility Trends Across Migrant Generations Reexamined: Insights from Finnish Register Data'. _SocArXiv_. https://doi.org/10.31235/osf.io/aqw6h
+- Estévez, J. L., & Rotkirch, A. (2024). 'Fertility Trends Across Migrant Generations Reexamined: Insights from Finnish Register Data'. _SocArXiv_. https://doi.org/10.31235/osf.io/aqw6h_v3
 
 ## Contact information
 
