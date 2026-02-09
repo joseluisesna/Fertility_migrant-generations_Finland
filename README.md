@@ -31,9 +31,8 @@ The repository includes four R scripts and a data folder:
 ## Funding
 
 This research was supported by NordForsk through the funding to "The Network Dynamics of Ethnic Integration", project number [105147](https://www.nordforsk.org/projects/network-dynamics-ethnic-integration). 
-José Luis Estévez was also supported by the Research Council of Finland, grant numbers 
-[360022](https://research.fi/en/results/funding/81442),
-[364371](https://research.fi/en/results/funding/81099), and
+José Luis Estévez was also supported by the Research Council of Finland, grant numbers
+[364371](https://research.fi/en/results/funding/81099) and
 [364382](https://research.fi/en/results/funding/81092).
 
 ## Citation
